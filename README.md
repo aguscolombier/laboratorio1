@@ -1,5 +1,7 @@
 # laboratorio1
 Repositorio creado para la practica del curso GIT del IPAP
+
+
 ¿Qué tan importante es escribir comentarios en los commits?¿Por qué?
       Escribir comentarios en los commits es esencial para mantener el código en un registro de todos los cambios y funcionalidades       agregadas a lo largo del tiempo..
 
